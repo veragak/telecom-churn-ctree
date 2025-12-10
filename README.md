@@ -20,7 +20,7 @@ and has been reorganized into a clean, reproducible data-science pipeline.
   - `04_evaluate_model.R` — confusion matrix & performance metrics  
 
 - `data/`
-  - `Churn_2526.RData` — or the CSV dataset used in the analysis  
+  - The dataset used in this project cannot be shared due to course policies
 
 - `figures/`
   - `ctree_final.png` — final trained tree  
